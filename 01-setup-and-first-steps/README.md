@@ -305,7 +305,7 @@ copilot --plan
 📋 Implementation Plan
 
 Step 1: Update the command handler in book_app.py
-  - Add new elif branch for "mark" command
+  - Add new elif branch for "read" command
   - Create handle_mark_as_read() function
 
 Step 2: Implement the handler function

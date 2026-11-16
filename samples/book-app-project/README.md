@@ -3,7 +3,7 @@
 *(This README is intentionally rough so you can improve it with GitHub Copilot CLI)*
 
 A Python app for managing books you have or want to read.
-It can add, remove, and list books. Also mark them as read.
+It can add, remove, and list books, and mark them as read.
 
 ---
 
@@ -30,6 +30,7 @@ It can add, remove, and list books. Also mark them as read.
 ```bash
 python book_app.py list
 python book_app.py add
+python book_app.py read
 python book_app.py find
 python book_app.py remove
 python book_app.py help
